@@ -1,2 +1,2 @@
-# Biblioteca-c-
-Projeto da faculdade dá materia de Desenvolvimento de Sistemas I.
+# Laboratorio-Biblioteca-POO
+Trabalho Prático de Programação Orientada a Objetos
